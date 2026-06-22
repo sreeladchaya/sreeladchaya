@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=999999&color=0A66C2&center=true&vCenter=true&repeat=false&width=900&lines=SREE+LADCHAYA" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=999999&color=0A66C2&center=true&vCenter=true&repeat=false&width=1200&lines=SREE+LADCHAYA" />
 
 ### 🤖 Machine Learning Enthusiast
 
@@ -79,15 +79,12 @@
 
 ✔ Machine Learning
 
-✔ DSA Practice
+✔ Data Structures & Algorithm
 
-✔ SQL
+✔ SQL & Database
 
 ✔ Real-World Projects
 
-✔ Internship Preparation
-
-✔ Placement Preparation
 
 ---
 
