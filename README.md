@@ -2,7 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=999999&color=0A66C2&center=true&vCenter=true&repeat=false&width=1200&lines=SREE+LADCHAYA" />
 
-### 🤖 Machine Learning Enthusiast
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Python+%7C+SQL+%7C+C%2B%2B;Exploring+Data+Science;Future+Software+Engineer" />
 
@@ -79,7 +83,7 @@
 
 ✔ Machine Learning
 
-✔ Data Structures & Algorithm
+✔ Data Structures and Algorithm
 
 ✔ SQL & Database
 
