@@ -24,6 +24,10 @@
 
 <img src="https://img.shields.io/badge/DSA-64DD17?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Code%20•%20Learn%20•%20Repeat-E91E63?style=for-the-badge"/>
+
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Python+%7C+SQL+%7C+C%2B%2B;Exploring+Data+Science;Future+Software+Engineer" />
@@ -101,11 +105,11 @@
 
 ✔ Machine Learning
 
-✔ Data Structures and Algorithm
-
-✔ Real-world projects
+✔ Data Structures & Algorithm
 
 ✔ SQL & Database
+
+✔ Real-World Projects
 
 
 ---
