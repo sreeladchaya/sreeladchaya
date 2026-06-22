@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=999999&color=1F6FEB&center=true&vCenter=true&repeat=false&width=650&lines=Sree+Ladchaya+R" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1&pause=999999&color=0969DA&center=true&vCenter=true&repeat=false&width=750&lines=%3C+Sree+Ladchaya+%2F%3E" />
 
 ### 🤖 Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Python+%7C+SQL+%7C+C%2B%2B;Exploring+Data+Science;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Python+%7C+SQL+%7C+C%2B%2B;Exploring+Data+Science;Future+Software+Engineer" />
 
 <p>
 <a href="https://linkedin.com/in/sreeladchaya">
@@ -79,15 +79,13 @@
 
 ✔ Machine Learning
 
-✔ DSA Practice
+✔ Data structures & Algorithm
 
-✔ SQL
+✔ SQL & Database
 
 ✔ Real-World Projects
 
-✔ Internship Preparation
 
-✔ Placement Preparation
 
 ---
 
