@@ -1,18 +1,18 @@
 <div align="center">
 
-# Sree Ladchaya R
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=999999&color=1F6FEB&center=true&vCenter=true&repeat=false&width=650&lines=Sree+Ladchaya+R" />
 
 ### 🤖 Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Exploring+Data+Science;Learning+Software+Development;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Building+Machine+Learning+Projects;Python+%7C+SQL+%7C+C%2B%2B;Exploring+Data+Science;Future+Software+Engineer" />
 
-</div>
-
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/sreeladchaya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+</div>
 
 ---
 
@@ -20,9 +20,9 @@
 
 🎓 Computer Science Engineering Student at Rajalakshmi Engineering College
 
-🤖 Interested in Machine Learning and Data Science
+🤖 Passionate about Machine Learning and Data Science
 
-💻 Passionate about Software Development and Problem Solving
+💻 Interested in Software Development and Problem Solving
 
 🌱 Currently learning Data Structures & Algorithms
 
@@ -65,11 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sreeladchaya&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeladchaya&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreeladchaya&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeladchaya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -89,6 +86,8 @@
 ✔ Real-World Projects
 
 ✔ Internship Preparation
+
+✔ Placement Preparation
 
 ---
 
