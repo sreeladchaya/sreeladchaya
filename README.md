@@ -4,25 +4,25 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Science-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-9C27B0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1976D2?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00C853?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-2962FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-F57C00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF1744?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Web%20Development-00ACC1?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-00B8D4?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-64DD17?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 <br><br>
 
@@ -101,11 +101,12 @@
 
 ✔ Machine Learning
 
-✔ Data Structures & Algorithm
+✔ Data Structures and Algorithm
+
+✔ Real-world projects
 
 ✔ SQL & Database
 
-✔ Real-World Projects
 
 ---
 
